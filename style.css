@@ -24,7 +24,7 @@ body {
   margin:40px;
 }
 
-#introsec {
+#introducesec {
   text-align: left;
   margin-left:80px;
 }
@@ -208,11 +208,11 @@ footer {
   font-size: 1.1em;
 }
 
-#portfoliocontent {
+#content {
   padding: 20px;
 }
 
-#portfoliop {
+#p {
   margin-top: 15px;
 }
 
