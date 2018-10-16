@@ -216,6 +216,26 @@ footer {
   margin-top: 15px;
 }
 
+.image1 img{
+  width:200px;
+  height:200px;
+}
+
+.image2 img{
+  width:200px;
+  height:200px;
+}
+
+.image3 img{
+  width:500px;
+  height:300px;
+}
+
+.exp, .edu, .ski, .lan{
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
 main ul {
 	list-style: none;
 }
