@@ -24,9 +24,9 @@ body {
   margin:40px;
 }
 
-#introducesec {
+#introducesec p, #introducesec ol, #introducesec li{
   text-align: left;
-  margin-left:80px;
+  margin-left:40px;
 }
 
 .introduceh2 {
@@ -149,7 +149,7 @@ footer {
 
 }
 
-#resumename {
+#resumename{
   text-align: right;
 }
 
@@ -208,27 +208,34 @@ footer {
   font-size: 1.1em;
 }
 
-#content {
-  padding: 20px;
+.portfolioleft {
+  margin-top: 10px;
+  margin-left:20px;
+  margin-bottom: 15px;
 }
 
-#p {
-  margin-top: 15px;
+.portfolioright {
+  margin-top: 10px;
+  margin-right:20px;
+  margin-bottom: 15px;
 }
 
 .image1 img{
   width:200px;
   height:200px;
+  margin-left:20px;
 }
 
 .image2 img{
   width:200px;
   height:200px;
+  margin-right:20px;
 }
 
 .image3 img{
   width:500px;
   height:300px;
+  margin-left:20px;
 }
 
 .exp, .edu, .ski, .lan{
