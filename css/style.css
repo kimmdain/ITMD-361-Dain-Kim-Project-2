@@ -82,9 +82,10 @@ aside#left {
 
 header {
   height: 100px;
-  margin: 80px;
-  padding: 20px;
+  margin: 45px;
+  padding: 55px;
 }
+
 nav {
   background-color: #444444;
   position: fixed;
