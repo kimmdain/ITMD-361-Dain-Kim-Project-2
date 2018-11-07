@@ -18,6 +18,8 @@ body {
 
 .mainh1 {
   margin:10px;
+  font-weight: bold;
+  font-size: 2.0em;
 }
 
 #interestsec, #resumesec, #portfoliosec {
