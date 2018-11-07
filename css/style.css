@@ -248,3 +248,9 @@ main ul {
 main li {
 	list-style: none;
 }
+
+.indexvideo video{
+  width:90%; 
+  height:100%;
+}
+
